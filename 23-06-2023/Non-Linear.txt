@@ -1,0 +1,23 @@
+*******************TREE****************
+To implement hierarichal data or info we use tree DS
+In tree every node can have n no  of children
+
+Height of a Node: Look Down & count the levels
+Deapth of a Node: Look Upn & COunt the levels
+
+If a parrent is having two children we called it has left child and right child
+tree can be devided as two parts namely 
+1.Left Sub Tree
+2.Right Sub Tree
+
+Note:When eever we perform any operation in tree 
+     we have to complete left sub tree first and 
+     we move ahead with right sub tree
+
+Leaf Node: A node which has no children
+
+Tree traversal
+1.Level order taversal
+2.Depth order traversal
+
+
